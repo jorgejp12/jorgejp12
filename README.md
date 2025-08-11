@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorge Alfonso Pinzon</h1>
-<h3 align="center">Hello, my name is Jorge Alfonso Pinzon. I AM 18 YEARS OLD. I AM FROM Bucaramanga. I am on the Bucaramanga campus in group U3/0225. I dedicated myself fully to the campus, but in my free time I do technical repairs on cell phones. I graduated from the Nuestra Señora de Fatima school in Jordan, Santander, called the ghost town. I don't have much previous knowledge, but I am passionate about programming. My expectations on campus are to acquire knowledge with which to f</h3>
+<h3 align="center">Hello, my name is Jorge Alfonso Pinzon. I AM 19 YEARS OLD. I AM FROM Bucaramanga. I am on the Bucaramanga campus in group U3/0225. I dedicated myself fully to the campus, but in my free time I do technical repairs on cell phones. I graduated from the Nuestra Señora de Fatima school in Jordan, Santander, called the ghost town. I don't have much previous knowledge, but I am passionate about programming. My expectations on campus are to acquire knowledge with which to f</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgejp12&label=Profile%20views&color=0e75b6&style=flat" alt="jorgejp12" /> </p>
 
